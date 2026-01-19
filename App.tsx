@@ -42,6 +42,7 @@ function App() {
   async function onMessageReceived(
     remoteMessage: FirebaseMessagingTypes.RemoteMessage,
   ) {
+    
     // MAKING REQUEST FOR PREMISSION FOR MESSAGE
     await notifee.requestPermission();
 
