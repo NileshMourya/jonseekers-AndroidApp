@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000971511847",
+    "project_id": "jobseekers-d5409",
+    "storage_bucket": "jobseekers-d5409.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000971511847:android:80fbf2fdb0b32eb93c0602",
+        "android_client_info": {
+          "package_name": "com.jobseekers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxRzUpHYhHaqdo2yrkgl1qYFkxvWu1aAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
